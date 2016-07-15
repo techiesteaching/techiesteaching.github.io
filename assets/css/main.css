@@ -1943,9 +1943,9 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
    box-sizing: border-box;
    color: #000;
    position: relative;
-   padding: 12px;
-   width: 650px;
-   font-family: sans-serif;
+   padding: 10px;
+   width: 750px;
+   font-family: serif;
  }
 
  .modal > .content .close-btn {
