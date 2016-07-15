@@ -1856,6 +1856,10 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 
 /* Image */
 
+    #nathanpic {
+        max-height: 255.06px;
+    }
+
     .image {
         position: relative;
         display: inline-block;
